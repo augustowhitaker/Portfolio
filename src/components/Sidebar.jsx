@@ -9,7 +9,7 @@ const Sidebar = () => {
     <p className='title'>Desenvolvedor</p>
     <SocialNetworks />
     <p>informações de contato</p>
-    <a href="" className='btn'>Download currículo</a>
+    <a href="#" className='btn'>Download currículo</a>
   </aside>
 }
 
